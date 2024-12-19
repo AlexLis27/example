@@ -39,7 +39,7 @@ endobj
 
 6 0 obj
 <<
-/Length 96
+/Length 82
 >>
 stream
 BT
@@ -50,30 +50,20 @@ ET
 endstream
 endobj
 
-7 0 obj
-<<
-/Subtype /Text
-/Contents (Welcome to the GitHub repository of Alexey Krasnekov)
-/Rect [100 700 300 720]
-/Type /Annot
->>
-endobj
-
 xref
-0 8
-0000000000 65535 f
-0000000010 00000 n
-0000000077 00000 n
-0000000131 00000 n
-0000000182 00000 n
-0000000232 00000 n
-0000000275 00000 n
-0000000330 00000 n
+0 7
+0000000000 65535 f 
+0000000010 00000 n 
+0000000077 00000 n 
+0000000131 00000 n 
+0000000182 00000 n 
+0000000232 00000 n 
+0000000275 00000 n 
 trailer
 <<
-/Size 8
+/Size 7
 /Root 1 0 R
 >>
 startxref
-385
+319
 %%EOF
