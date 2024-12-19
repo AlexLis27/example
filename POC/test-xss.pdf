@@ -1,12 +1,79 @@
+%PDF-1.4
+%Æﬂﬂ
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+
+2 0 obj
+<<
+/Type /Pages
+/Kids [3 0 R]
+/Count 1
+>>
+endobj
+
+3 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/Resources <<
+  /Font <<
+    /F1 4 0 R
+  >>
+>>
+/Contents 6 0 R
+/MediaBox [0 0 595.2756 841.8898]
+>>
+endobj
+
+4 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+endobj
+
 6 0 obj
 <<
-/Length 128
+/Length 96
 >>
 stream
 BT
   /F1 24 Tf
-  50 750 Td
+  100 700 Td
   (Welcome to the GitHub repository of Alexey Krasnekov) Tj
 ET
 endstream
 endobj
+
+7 0 obj
+<<
+/Subtype /Text
+/Contents (Welcome to the GitHub repository of Alexey Krasnekov)
+/Rect [100 700 300 720]
+/Type /Annot
+>>
+endobj
+
+xref
+0 8
+0000000000 65535 f
+0000000010 00000 n
+0000000077 00000 n
+0000000131 00000 n
+0000000182 00000 n
+0000000232 00000 n
+0000000275 00000 n
+0000000330 00000 n
+trailer
+<<
+/Size 8
+/Root 1 0 R
+>>
+startxref
+385
+%%EOF
